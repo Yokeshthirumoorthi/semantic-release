@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Yokeshthirumoorthi/semantic-release#readme",
   "devDependencies": {
-    "jest": "^28.1.2"
+    "jest": "^28.1.2",
+    "semantic-release": "^19.0.3"
   }
 }
