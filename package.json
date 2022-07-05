@@ -1,0 +1,22 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yokeshthirumoorthi/semantic-release.git"
+  },
+  "author": "yokesh.thirumoorthi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yokeshthirumoorthi/semantic-release/issues"
+  },
+  "homepage": "https://github.com/Yokeshthirumoorthi/semantic-release#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
